@@ -8,6 +8,6 @@
 	<title>Home</title>
 </head>
 <body>
-	${nickname};
+	${nickname}
 </body>
 </html>
